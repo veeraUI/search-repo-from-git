@@ -3,13 +3,25 @@
   "version": "1.0.0",
   "description": "Search Github Repositories",
   "main": "index.js",
+  "homepage": "https://github.com/veeraUI/search-repo-from-git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veeraUI/search-repo-from-git.git"
+  },
+  "keywords": [
+    "github",
+    "npm",
+    "repos",
+    "repositories",
+    "sort",
+    "stars"
+  ],
+  "author": "Veera",
+  "license": "ISC"
 }
