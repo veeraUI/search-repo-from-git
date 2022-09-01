@@ -1,0 +1,1 @@
+The package helps to get npm repository.
